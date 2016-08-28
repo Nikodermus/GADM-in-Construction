@@ -21,7 +21,6 @@
         <!-- Stylesheets -->
         <link rel="stylesheet" href="css/normalize.min.css" media="screen"/>
         <link rel="stylesheet" href="css/fonts/font.css" media="screen"/>
-        <link rel="stylesheet" href="css/animate.min.css" media="screen"/>
         <link rel="stylesheet" href="css/main.min.css" media="screen"/>
 
         <!--[if lt IE 8]>
@@ -35,8 +34,6 @@
         <!--jQuery-->
         <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 
-        <!--Resizing -->
-        <script type="text/javascript" src="js/resize.js"></script>
     </head>
 
     <body>
@@ -121,11 +118,6 @@ mail($email_to, $email_subject, $email_message, $headers);
         </div>
         </article>
     </section>
-    <!--Sudo Slider-->
-    <script type="text/javascript" src="js/sudoslider.min.js"></script>
-
-    <!--Custom Scripts-->
-    <script type="text/javascript" src="js/actions.js"></script>
 </body>
 
 </html>
