@@ -72,7 +72,7 @@ if(isset($_POST['email'])) {
 
 // Debes editar las próximas dos líneas de código de acuerdo con tus preferencias
 
-$email_to= "nicolasm@nikodermus.media";   
+$email_to= "nicolasm@nikodermus.media, lauritacubillosrico@gmail.com, magazinegadm@gmail.com";   
 $email_subject = "Suscriptor de GADMagazine";
 $email_from ="magazinegadm@gmail.com";
 
